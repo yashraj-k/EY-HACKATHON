@@ -1,0 +1,155 @@
+{
+  "clinical_trials": [
+    {
+      "id": "NCT12345678",
+      "title": "Efficacy and Safety of Novel Anti-inflammatory Drug in Rheumatoid Arthritis",
+      "phase": "Phase II",
+      "status": "Recruiting",
+      "condition": "Rheumatoid Arthritis",
+      "intervention": "Experimental Drug X",
+      "sponsor": "PharmaCorp Inc.",
+      "start_date": "2024-01-15",
+      "end_date": "2025-12-31",
+      "enrollment": 200,
+      "primary_endpoint": "ACR50 response rate at 24 weeks",
+      "secondary_endpoints": [
+        "Safety and tolerability",
+        "Pharmacokinetics",
+        "Quality of life measures"
+      ],
+      "inclusion_criteria": [
+        "Age 18-75 years",
+        "Diagnosed RA for ≥6 months",
+        "Active disease (DAS28 >3.2)",
+        "Inadequate response to MTX"
+      ],
+      "exclusion_criteria": [
+        "Pregnancy or lactation",
+        "Active infection",
+        "Malignancy within 5 years",
+        "Severe hepatic or renal impairment"
+      ]
+    },
+    {
+      "id": "NCT87654321",
+      "title": "Phase III Study of New Diabetes Drug vs Placebo",
+      "phase": "Phase III",
+      "status": "Active",
+      "condition": "Type 2 Diabetes",
+      "intervention": "Novel GLP-1 Agonist",
+      "sponsor": "Diabetes Therapeutics Ltd",
+      "start_date": "2023-06-01",
+      "end_date": "2025-05-31",
+      "enrollment": 1500,
+      "primary_endpoint": "Change in HbA1c from baseline at 52 weeks",
+      "secondary_endpoints": [
+        "Weight change",
+        "Cardiovascular outcomes",
+        "Safety profile"
+      ],
+      "inclusion_criteria": [
+        "Age 18-80 years",
+        "T2DM diagnosis ≥1 year",
+        "HbA1c 7.0-10.5%",
+        "BMI ≥25 kg/m²"
+      ],
+      "exclusion_criteria": [
+        "Type 1 diabetes",
+        "Severe hypoglycemia history",
+        "Pancreatitis history",
+        "Pregnancy"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "id": "US12345678",
+      "title": "Novel Anti-inflammatory Compounds and Methods of Use",
+      "inventors": ["Dr. John Smith", "Dr. Jane Doe"],
+      "assignee": "PharmaCorp Inc.",
+      "filing_date": "2020-03-15",
+      "publication_date": "2021-09-15",
+      "grant_date": "2023-01-10",
+      "expiry_date": "2040-03-15",
+      "abstract": "The present invention relates to novel anti-inflammatory compounds and pharmaceutical compositions containing the same.",
+      "claims": [
+        "A compound of formula I",
+        "A pharmaceutical composition comprising the compound",
+        "A method of treating inflammation"
+      ],
+      "ipc_classification": "A61K 31/00",
+      "status": "Granted"
+    },
+    {
+      "id": "US87654321",
+      "title": "GLP-1 Receptor Agonists for Diabetes Treatment",
+      "inventors": ["Dr. Alice Johnson", "Dr. Bob Wilson"],
+      "assignee": "Diabetes Therapeutics Ltd",
+      "filing_date": "2019-08-20",
+      "publication_date": "2021-02-20",
+      "grant_date": "2022-11-15",
+      "expiry_date": "2039-08-20",
+      "abstract": "Novel GLP-1 receptor agonists with improved pharmacokinetic properties.",
+      "claims": [
+        "A GLP-1 agonist compound",
+        "A method of treating diabetes",
+        "A pharmaceutical formulation"
+      ],
+      "ipc_classification": "A61K 38/26",
+      "status": "Granted"
+    }
+  ],
+  "market_data": [
+    {
+      "drug_name": "Anti-inflammatory Drug X",
+      "market_size": 2500000000,
+      "growth_rate": 5.2,
+      "competitors": [
+        {"name": "Humira", "market_share": 35.2, "revenue": 20000000000},
+        {"name": "Enbrel", "market_share": 18.5, "revenue": 8500000000},
+        {"name": "Remicade", "market_share": 12.3, "revenue": 4500000000}
+      ],
+      "pricing": {
+        "wholesale_price": 2500,
+        "retail_price": 3200,
+        "insurance_coverage": 85
+      },
+      "forecast": {
+        "year_1": 50000000,
+        "year_2": 120000000,
+        "year_3": 200000000,
+        "year_5": 400000000
+      }
+    }
+  ],
+  "research_papers": [
+    {
+      "id": "pub_001",
+      "title": "Novel Mechanisms of Anti-inflammatory Action in Rheumatoid Arthritis",
+      "authors": ["Dr. Sarah Chen", "Dr. Michael Rodriguez"],
+      "journal": "Nature Medicine",
+      "year": 2023,
+      "volume": 29,
+      "pages": "1234-1245",
+      "doi": "10.1038/s41591-023-01234-5",
+      "abstract": "This study investigates novel mechanisms of anti-inflammatory action in rheumatoid arthritis patients.",
+      "keywords": ["rheumatoid arthritis", "inflammation", "mechanism", "treatment"],
+      "impact_factor": 82.9,
+      "citations": 45
+    },
+    {
+      "id": "pub_002",
+      "title": "GLP-1 Receptor Agonists: Beyond Glycemic Control",
+      "authors": ["Dr. Emily Watson", "Dr. David Kim"],
+      "journal": "Diabetes Care",
+      "year": 2023,
+      "volume": 46,
+      "pages": "567-578",
+      "doi": "10.2337/dc23-0567",
+      "abstract": "Comprehensive review of GLP-1 receptor agonists and their cardiovascular benefits.",
+      "keywords": ["GLP-1", "diabetes", "cardiovascular", "outcomes"],
+      "impact_factor": 16.2,
+      "citations": 78
+    }
+  ]
+}
